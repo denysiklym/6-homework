@@ -1,5 +1,7 @@
 # bubble-sort-name
 
-if you want run code => node index.js
-/
-author - Denys Klym
+Виконав студент групи: ІПЗс-23-1 Клим Денис
+
+Програма для сортування масиву методом бульбашки.
+
+Запуск -> node index.js (teminal)
